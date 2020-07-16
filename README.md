@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Website: https://rinsuki.net/
+- Mastodon: [@rinsuki@mstdn.rinsuki.net](https://mstdn.rinsuki.net/@rinsuki)
+- Twitter: [@428rinsuki](https://twitter.com/428rinsuki)
+
 <!--
 **rinsuki/rinsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
