@@ -11,4 +11,4 @@
 #### My GitHub Organizations
 
 - [**@cinderella-project**](https://github.com/cinderella-project) : Fediverse or THE iDOLM@STER related things
-- [**@rinsuki-lab**](https://github.com/rinsuki-lab) : discontinued or experimental projects
+- [**@rinsuki-lab**](https://github.com/rinsuki-lab) : experimental or discontinued projects
