@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Website: https://rinsuki.net/
+- Website (Japanese): https://rinsuki.net/
 - Mastodon: [@rinsuki@mstdn.rinsuki.net](https://mstdn.rinsuki.net/@rinsuki)
 - Twitter: [@428rinsuki](https://twitter.com/428rinsuki)
 
