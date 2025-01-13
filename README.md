@@ -26,7 +26,7 @@ You can support me by:
       * インターネット経由、あるいは小売店で、1万円以下で購入 (買い切り) できるソフトウェア
     * (クロスプラットフォームである必要はなく、例えば Mac 専用とか iOS 専用とかでも良い)
   * いわゆる『2次元コンテンツ』を好む層が使っている、あるいは想定層に置いているもの
-  * 以前公表・公開されたソフトウェアを、当時とは別のプラットフォーム等で動くようにするもの
+  * 以前公表・公開されたソフトウェアを、当時とは別のプラットフォーム等 (特にWeb) で動くようにするもの
     * これに関しては、関心はありますが必要十分な実力があるかはわかりません
 * 諸般の事情によりパートタイムになるなどの制約があります
 * I'm not currently accepting jobs which requires English-based communnication, since I'm feeling my English skill is not enough to it.
