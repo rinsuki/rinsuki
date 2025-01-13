@@ -17,7 +17,8 @@ You can support me by:
   * from 5 USD
   * not including per-month summary article
 
-あるいは、私を雇うこともできます (主に日本語でコミュニケーションが取れる企業・団体に限る)。
+<details>
+<summary>あるいは、私を雇うこともできます (主に日本語でコミュニケーションが取れる企業・団体に限る)。クリックで詳細を開きます</summary>
 
 * 関心がある事柄:
   * toC 自社開発
@@ -27,11 +28,13 @@ You can support me by:
     * (クロスプラットフォームである必要はなく、例えば Mac 専用とか iOS 専用とかでも良い)
   * いわゆる『2次元コンテンツ』を好む層が使っている、あるいは想定層に置いているもの
   * 以前公表・公開されたソフトウェアを、当時とは別のプラットフォーム等 (特にWeb) で動くようにするもの
-    * これに関しては、関心はありますが必要十分な実力があるかはわかりません
+* (関心はありますが、必要十分な実力があるかはわかりません)
 * 諸般の事情によりパートタイムになるなどの制約があります
 * I'm not currently accepting jobs which requires English-based communnication, since I'm feeling my English skill is not enough to it.
   * 英語のドキュメントをWeb翻訳やLLM片手に読む、Web翻訳片手に Pull request のための英語を書く、程度はできます
     * (Web翻訳片手に……ということは、NDAを結んでいるなどで社外秘で、かつ英語しかないドキュメントを読めるかは怪しい、ということです)
+
+</details>
 
 #### My GitHub Organizations
 
